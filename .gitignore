@@ -1,7 +1,8 @@
 /Client_id_frostmet.txt
 /client_secret_frostmet.txt
-/venv/
+/venv
+/lecture5.ipynb
 
-.ipynb_checkpoints
+/.ipynb_checkpoints
 /__pycache__
 /*.py[cod]
